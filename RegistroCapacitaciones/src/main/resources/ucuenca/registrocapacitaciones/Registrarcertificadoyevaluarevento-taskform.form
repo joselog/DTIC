@@ -1,0 +1,389 @@
+
+<form id="1592547321">
+<property name="name" value="Registrarcertificadoyevaluarevento-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_1" type="HTMLLabel" id="237168814">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;DATOS DE EVENTO DE CAPACITACION&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="1" name=":decorator_3" type="Separator" id="1023424689">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="2" name="evento_nombre" type="InputText" id="1803892245">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (evento)quot;quot;esquot;,quot;Nombre:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="cssStyle" value="text-transform: uppercase"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evento/nombre"/>
+<property name="outputBinding" value="evento/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="evento_fechaInicio" type="InputShortDate" id="284474870">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaInicio (evento)quot;quot;esquot;,quot;Fecha de Inicio:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="20"/>
+<property name="inputBinding" value="evento/fechaInicio"/>
+<property name="outputBinding" value="evento/fechaInicio"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="5" name="evento_fechaFin" type="InputShortDate" id="341860197">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;fechaFin (evento)quot;quot;esquot;,quot;Fecha de Finalización:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="20"/>
+<property name="inputBinding" value="evento/fechaFin"/>
+<property name="outputBinding" value="evento/fechaFin"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="7" name="evento_duracion" type="InputTextInteger" id="1124708784">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;duracion (evento)quot;quot;esquot;,quot;Duración (horas):quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="12"/>
+<property name="inputBinding" value="evento/duracion"/>
+<property name="outputBinding" value="evento/duracion"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="8" name="evento_centro" type="InputText" id="1677429823">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;centro (evento)quot;quot;esquot;,quot;Centro de Capacitación:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evento/centro"/>
+<property name="outputBinding" value="evento/centro"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="evento_lugar" type="InputText" id="2003605130">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;lugar (evento)quot;quot;esquot;,quot;Lugar:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="48"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evento/lugar"/>
+<property name="outputBinding" value="evento/lugar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="evento_horario" type="InputText" id="771873700">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;horario (evento)quot;quot;esquot;,quot;Horario:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="60"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evento/horario"/>
+<property name="outputBinding" value="evento/horario"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="evento_instructor" type="InputText" id="59738559">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;instructor (evento)quot;quot;esquot;,quot;Instructor/esquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="48"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evento/instructor"/>
+<property name="outputBinding" value="evento/instructor"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name=":decorator_6" type="HTMLLabel" id="1139224382">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="13" name=":decorator_2" type="HTMLLabel" id="1864760777">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;PARTICIPANTE&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="14" name=":decorator_0" type="Separator" id="1570077779">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="15" name="participante_dependencia" type="SelectBox" id="454932463">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (participante)quot;quot;esquot;,quot;Dependencia:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="participante/dependencia"/>
+<property name="customFieldType" value="ec.edu.ucuenca.combo.providers.DependenciasProvider"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="16" name="participante_nombre" type="InputText" id="953950078">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;nombre (participante)quot;quot;esquot;,quot;Nombre:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="45"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="participante/nombre"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="17" name="participante_cargo" type="InputText" id="2056138046">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cargo (participante)quot;quot;esquot;,quot;Cargo:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="30"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="participante/cargo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="18" name="participante_correo" type="InputText" id="2124464312">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;correo (participante)quot;quot;esquot;,quot;Correo Institucional:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="28"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="participante/correo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="19" name=":decorator_7" type="HTMLLabel" id="1875637229">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;dequot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;enquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;esquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;frquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;jaquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;ptquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;quot;zhquot;,quot;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="20" name=":decorator_4" type="HTMLLabel" id="852950306">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;width:785px;height:25px;text-align:center;display:table-cell;vertical-align:middle; margin:0 auto;background:#070719;border:1px solid #f0f8ff;color:#ffffff&quot;&gt;&lt;strong&gt;EVALUACION Y REGISTRO DE CERTIFICADO&lt;/strong&gt;&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="21" name=":decorator_5" type="Separator" id="2097182377">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="22" name="evaluacion_certificadoEvento" type="Document" id="1898246881">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;certificadoEvento (evaluacion)quot;quot;esquot;,quot;Agregar Certificado:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="evaluacion/certificadoEvento"/>
+<property name="outputBinding" value="evaluacion/certificadoEvento"/>
+<property name="fieldClass" value="org.jbpm.document.Document"/>
+</field>
+<field position="23" name=":decorator_8" type="HTMLLabel" id="1412639593">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;dequot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;enquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;esquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;frquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;jaquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;ptquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;quot;zhquot;,quot;&lt;div style=&quot;color:#ffffff&quot;&gt;hidden&lt;/div&gt; quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+<field position="24" name="evaluacion_preg_1_1" type="InputTextInteger" id="950505987">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_1_1 (evaluacion)quot;quot;esquot;,quot;Los contenidos aprendidos en el curso ayudarán en mi trabajo:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;1,Nada;2,Poco;3,Medianamente;4,Bastante;5,Mucho}"/>
+<property name="inputBinding" value="evaluacion/preg_1_1"/>
+<property name="outputBinding" value="evaluacion/preg_1_1"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="25" name="evaluacion_preg_1_2" type="InputTextInteger" id="359011354">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_1_2 (evaluacion)quot;quot;esquot;,quot;La duración del curso ha sido:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;1,Muy Inadecuada;2,Inadecuada;3,Normal;4,Adecuada;5,Muy adecuada}"/>
+<property name="inputBinding" value="evaluacion/preg_1_2"/>
+<property name="outputBinding" value="evaluacion/preg_1_2"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="26" name="evaluacion_preg_1_3" type="InputTextInteger" id="1465530772">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_1_3 (evaluacion)quot;quot;esquot;,quot;El horario realizado ha sido:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;1,Muy Inadecuado;2,Inadecuado;3,Normal;4,Adecuado;5,Muy adecuado}"/>
+<property name="inputBinding" value="evaluacion/preg_1_3"/>
+<property name="outputBinding" value="evaluacion/preg_1_3"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="27" name="evaluacion_preg_1_4" type="InputTextInteger" id="1665910266">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_1_4 (evaluacion)quot;quot;esquot;,quot;Luego de finalizado el evento estoy mas motivado que antes:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;1,Nada;2,Poco;3,Medianamente;4,Bastante;5,Mucho}"/>
+<property name="inputBinding" value="evaluacion/preg_1_4"/>
+<property name="outputBinding" value="evaluacion/preg_1_4"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="28" name="evaluacion_preg_1_5" type="InputTextInteger" id="1360652526">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_1_5 (evaluacion)quot;quot;esquot;,quot;Luego de finalizado el evento, seré mejor en mi trabajo:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;1,Nada;2,Poco;3,Medianamente;4,Bastante;5,Mucho}"/>
+<property name="inputBinding" value="evaluacion/preg_1_5"/>
+<property name="outputBinding" value="evaluacion/preg_1_5"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="29" name="evaluacion_preg_3" type="InputText" id="2105107665">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_3 (evaluacion)quot;quot;esquot;,quot;Recomiendo el curso para otras personas:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="rangeFormula" value="{,-;si,SI;no,NO}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_3"/>
+<property name="outputBinding" value="evaluacion/preg_3"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="30" name="evaluacion_preg_2" type="InputTextArea" id="1556879656">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="height" value="3"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_2 (evaluacion)quot;quot;esquot;,quot;Con lo aprendido en el curso, lo que quiero hacer ahora en mi puesto de trabajo es:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="100"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_2"/>
+<property name="outputBinding" value="evaluacion/preg_2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="31" name="evaluacion_preg_4" type="InputTextArea" id="1024147004">
+<property name="fieldRequired" value="true"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="height" value="3"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_4 (evaluacion)quot;quot;esquot;,quot;Propuestas o comentarios respecto al curso:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="100"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_4"/>
+<property name="outputBinding" value="evaluacion/preg_4"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="32" name="evaluacion_preg_5" type="InputTextArea" id="41140354">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="height" value="3"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;preg_5 (evaluacion)quot;quot;esquot;,quot;Otros temas de capacitación que me interesan son:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="size" value="100"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="evaluacion/preg_5"/>
+<property name="outputBinding" value="evaluacion/preg_5"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="dependencia" type="InputText" id="709527404">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;dependencia (dependencia)quot;quot;esquot;,quot;Dependencia:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="size" value="80"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="dependencia"/>
+<property name="outputBinding" value="dependencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="modalidad" type="InputText" id="9469592">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;modalidad (modalidad)quot;quot;esquot;,quot;Modalidad:quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="true"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
+<property name="inputBinding" value="modalidad"/>
+<property name="outputBinding" value="modalidad"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="dependencia" name="#E9E371" type="basicType" outId="dependencia" value="java.lang.String" id="dependencia"/>
+<dataHolder inputId="evaluacion" name="#FF8881" type="dataModelerEntry" outId="evaluacion" value="ucuenca.registrocapacitaciones.dtic_rec_evaluacion" id="evaluacion"/>
+<dataHolder inputId="evento" name="#E9E371" type="dataModelerEntry" outId="evento" value="ucuenca.registrocapacitaciones.dtic_rec_evento" id="evento"/>
+<dataHolder inputId="modalidad" name="#BBBBBB" type="basicType" outId="modalidad" value="java.lang.String" id="modalidad"/>
+<dataHolder inputId="pais" name="#FF54A7" type="basicType" outId="pais" value="java.lang.String" id="pais"/>
+<dataHolder inputId="participante" name="#9BCAFA" type="dataModelerEntry" outId="participante" value="ucuenca.registrocapacitaciones.dtic_rec_participante" id="participante"/>
+</form>

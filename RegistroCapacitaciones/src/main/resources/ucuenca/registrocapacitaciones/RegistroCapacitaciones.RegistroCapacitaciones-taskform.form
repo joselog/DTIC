@@ -1,0 +1,21 @@
+
+<form id="1721548645">
+<property name="name" value="RegistroCapacitaciones.RegistroCapacitaciones-taskform.form"/>
+<property name="displayMode" value="aligned"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<field position="0" name=":decorator_0" type="HTMLLabel" id="1206854781">
+<property name="fieldRequired" value="false"/>
+<property name="readonly" value="false"/>
+<property name="htmlContent" value="quot;caquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;dequot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;enquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;esquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;frquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;jaquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;ptquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;quot;zhquot;,quot;&lt;h2 style=&quot;font-style:italic;color:#070719&quot;&gt;&lt;strong&gt;PROCESO PARA REGISTRO DE EVENTOS DE CAPACITACI&amp;Oacute;N DE LA DTIC&lt;/strong&gt;&lt;/h2&gt;
+quot;"/>
+<property name="fieldClass" value="HTMLlabel"/>
+</field>
+</form>
